@@ -19,7 +19,7 @@
 ## How to run
 
 1. Open Terminal.
-2. Write git clone https://github.com/hamayun-cpu/ror-social-scaffold.git
+2. Write git clone https://github.com/imran5644/ror-social-scaffold.git
 3. Go to the root directory.
 4. Write yarn install
 5. Write bundle install
